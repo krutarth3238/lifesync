@@ -1,0 +1,8 @@
+.env
+credentials.json
+token_calendar.pickle
+token_gmail.pickle
+token_sheets.pickle
+sheet_id.txt
+__pycache__/
+*.pyc
